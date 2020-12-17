@@ -1,2 +1,7 @@
 # daw-2020-02
-Codigo para administrar paqueteria front end.
+
+## Description
+Codigo  base para administrar paqueteria front end.
+
+## Stack
+Por definir 
