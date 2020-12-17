@@ -1,2 +1,3 @@
 // Script de Frontend
-console.log("Hello Modern JS / ES6 / Es2015/ Es2020");
+console.log("Hello Word");
+alert("Bienvenido al Programa");
