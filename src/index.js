@@ -1,3 +1,9 @@
 // Script de Frontend
-console.log("Hello Word");
-alert("Bienvenido al Programa");
+console.log("Modern JS working!!! Thanks Babel...");
+let show = (message = "Saludo por defecto")=>
+{
+    alert(message)
+}
+//Ejemplo
+show()
+show("Mi Saludo")
