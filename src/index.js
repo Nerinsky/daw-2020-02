@@ -1,9 +1,8 @@
 // Script de Frontend
-console.log("Modern JS working!!! Thanks Babel...");
-let show = (message = "Saludo por defecto")=>
-{
-    alert(message)
-}
-//Ejemplo
-show()
-show("Mi Saludo")
+//Importar los estilos
+//import './styles/styles.css';
+import './styles/styles.css';
+import 'materialize-css/dist/css/materialize.css';
+import 'materialize-css/dist/js/materialize';
+
+console.log('Modern JS working!!! Thanks Babel...');
